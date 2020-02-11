@@ -1,0 +1,2 @@
+# Polaris2
+Eszköznyilvántartó
